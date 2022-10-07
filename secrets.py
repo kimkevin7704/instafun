@@ -1,0 +1,2 @@
+username = 'slammahyak'
+password = 'kimgwangshik'
